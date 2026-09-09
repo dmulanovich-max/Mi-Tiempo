@@ -1,1 +1,8 @@
-Mi Tiempo v1. App independiente. Registra horas por grupo, actividades múltiples, Otro, bienestar 0–5, comentarios, calendario por colores y exportación CSV. Datos locales: miTiempo_v1.
+Mi Tiempo v2
+- Fondo blanco y navegación gris claro / naranja suave.
+- Tiempo por actividad en bloques de 15 minutos.
+- Total automático por grupo y total del día.
+- Puntos del calendario en el mismo orden de los grupos de Hoy.
+- Al tocar un día del calendario se despliega su resumen; desde allí se puede Editar día.
+- Bienestar, comentarios y exportación CSV.
+Los datos de esta versión se guardan localmente bajo miTiempo_v2.
