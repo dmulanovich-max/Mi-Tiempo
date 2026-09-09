@@ -1,0 +1,8 @@
+{
+  "name": "Mi Tiempo",
+  "short_name": "Mi Tiempo",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5ead8",
+  "theme_color": "#f5ead8"
+}

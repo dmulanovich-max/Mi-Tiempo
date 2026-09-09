@@ -1,0 +1,1 @@
+Mi Tiempo v1. App independiente. Registra horas por grupo, actividades múltiples, Otro, bienestar 0–5, comentarios, calendario por colores y exportación CSV. Datos locales: miTiempo_v1.
